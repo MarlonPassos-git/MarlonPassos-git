@@ -1,11 +1,9 @@
-<h1 align="center">Aee</h1>
-<h3 align="center">Desenvolvedor</h3>
+<h1 align="center">Hey</h1>
+<h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on [Agencia M3](https://m3ecommerce.com/)
+- 🔭 I’m currently working on [Cadastra](https://cadastra.com/)
 
-- 🌱 I’m currently learning **Node JS, Best Development Pratiques**
-
-- 📫 How to reach me **1marlonpassos@gmail.com**
+- 🌱 I’m currently learning **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
